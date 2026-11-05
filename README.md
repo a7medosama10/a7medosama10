@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 <div align="center">
 
 <picture>
